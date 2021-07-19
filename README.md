@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Filmoteca
 
 To start your Phoenix server:
@@ -19,3 +20,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
 # filmoteca
+=======
+# filmoteca_server
+Servidor para la aplicación Filmoteca
+>>>>>>> ac4968693ba4ba9540a10eae19110367e2377b32
